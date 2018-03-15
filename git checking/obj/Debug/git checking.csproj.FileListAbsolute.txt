@@ -1,0 +1,6 @@
+C:\Users\Fall2017\Desktop\git checking\git checking\bin\Debug\git checking.exe.config
+C:\Users\Fall2017\Desktop\git checking\git checking\bin\Debug\git checking.exe
+C:\Users\Fall2017\Desktop\git checking\git checking\bin\Debug\git checking.pdb
+C:\Users\Fall2017\Desktop\git checking\git checking\obj\Debug\git checking.csprojResolveAssemblyReference.cache
+C:\Users\Fall2017\Desktop\git checking\git checking\obj\Debug\git checking.exe
+C:\Users\Fall2017\Desktop\git checking\git checking\obj\Debug\git checking.pdb
